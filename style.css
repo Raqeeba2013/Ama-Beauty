@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+}
+
+.login {
+    background-image: url(05/backgImage.jpg);
+    background-attachment: fixed;
+    width: 100%;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(87, 85, 85);
+    background-blend-mode: multiply;
+    opacity: 0.9;
+    margin-bottom: 20px;
+    color: white;
+    text-align: center;
+}
+
+.my-first-div {
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.first {
+    margin-top: 25px;
+    margin-right: 100px;
+}
+
+.Web {
+    text-align: center;
+}
+
+.lorem {
+    background-color: black;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 50px;
+}
+
+.book {
+    color: black;
+    margin: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.We {
+    text-align: center;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.Contact {
+    text-align: center;
+    background-color: #2690d4;
+    color: white;
+    margin-top: 20px;
+    padding: 50px;
+}
+
+.About {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    padding: 50px;
+}
+
+.Us {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.Acme {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.Our {
+    margin-bottom: 20px;
+}
+
+.OWUSU {
+    color: blue;
+    margin-top: 20px;
+}
+
+.Project {
+    text-align: center;
+    background-color: black;
+}
+
+.LAST {
+    color: white;
+    margin-top: 20px;
+}
+
+.Solutions {
+    margin-top: 20px;
+}
+
+button {
+    background-color: rgb(87, 85, 85);
+    color: white;
+    opacity: 0.9;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
+
+.voluptatum {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.voluptatum {
+    margin-top: 40px;
+}
